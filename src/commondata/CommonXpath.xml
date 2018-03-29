@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllXpath serverPath='http://dplatform.derbysoft.com/dplatform-accountmanager/login.html'>
+	<UserNameXpath>//input[@name='username']</UserNameXpath>
+	<PasswordXpath>//input[@name='password']</PasswordXpath>
+	<SignInButton>//div[@class='form-group remember-me']/button[contains(text(), 'Sign In')]</SignInButton>
+</AllXpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllAccount>
+	<Account name='SharingAdmin'>
+		<username>Sharing Admin</username>
+		<password>msm_admin</password>
+	</Account>
+	<Account name='SharingUser'>
+		<username>Sharing User</username>
+		<password>msm_user</password>
+	</Account>
+</AllAccount>
